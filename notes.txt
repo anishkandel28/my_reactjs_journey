@@ -1,0 +1,37 @@
+DOM method
+-getElementById()
+
+
+//In other words, imperative programming is like giving a chef step-by-step instructions on how to make a pizza. Declarative programming is like ordering a pizza without being concerned about the steps it takes to make the pizza. 🍕
+React: A Declarative UI Library
+
+Getting Started with React
+
+-react is the core React Library
+-react-dom provides DOM-specific methods that enable you to use React with the DOM.
+
+React Core Concepts
+-Components
+-Props
+-Started
+
+Buildoing UI with Components
+
+-UI can be broken down into smaller building blocks called components.
+-It allow you to build self-contained, reusable snippets of code.
+
+If you think of components as LEGO bricks, 
+you can take these individual bricks and combine them together 
+to form larger structures. If you need to update a piece of the UI, 
+you can update the specific component or brick.
+
+
+-Props
+you can pass pieces of information 
+as properties to React components. These are called props.
+
+JSX Fragment <> </>
+
+
+props
+props are properties to pass our information to the components
