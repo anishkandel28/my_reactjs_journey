@@ -19,7 +19,7 @@ export default function TextForm(props) {
         setText(event.target.value); 
     }
 
-    const [text, setText]= useState("enter text here") //const [count, setCount]=useState(0); in count, the value stored, and when we have to update or change state, we use setCount
+    const [text, setText]= useState("") //const [count, setCount]=useState(0); in count, the value stored, and when we have to update or change state, we use setCount
     // text="new text"; //Wrong way to chnage the state
     // setText("new text");// Correct way to chnage the state
     return (
