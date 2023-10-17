@@ -11,8 +11,6 @@ const Hookprac1 = () => {
         setText("What's your name?")
         }
     }
-
-
     return (
         <div className="container">
             <h1>{ text } </h1>
