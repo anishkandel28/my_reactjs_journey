@@ -13,7 +13,8 @@ const Hookprac2 = () => {
             <button onClick={clickCount}> CLick Me</button>
            <hr></hr>
            {/* inline function  */}
-            <button onClick={()=>setCount(count+1)}>Click Me</button> 
+            {/* <button onClick={()=>setCount(count+1)}>Click Me</button> 
+            <button onClick={()=>setCount(count+1)}></button> */}
            
         </div>
     );
